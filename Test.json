@@ -27,4 +27,6 @@
     "isNew": "FALSE",
     "description": "We continue to see teams run into trouble using JSF ..."
   }
+
+export QUADRANTS='["Techniques", "Platforms", "Tools", "Languages & Frameworks"]'
 ]
